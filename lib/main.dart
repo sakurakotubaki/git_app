@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Center(
-        child: Text('Hello from Feature 1!'),
+        child: Text('Feat 1!'),
       ),
     );
   }
